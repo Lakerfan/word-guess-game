@@ -2,11 +2,27 @@
 body {
     color: #ad7c44;
     border-color: #030000
-    border-style: dotted;
     font-size: 20px;
-    line-height: 34px
+    line-height: 34px;
     font-family: 'Arial', 'Helvetica', sans-serif;
-    background-image: url(#);
-    background-repeat: no-repeat;
-    background-color: #f9f1f1;
+    background-color: lightblue;
+}
+/* Unordered list class */
+.game-tracker {
+    padding: 20px;
+    padding-left: 20px;
+}
+
+.list-game-tracker {
+    padding-left: 20px;
+}
+
+#play {
+    text-align: left;
+}
+
+#container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
 }
