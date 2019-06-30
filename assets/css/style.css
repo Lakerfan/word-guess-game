@@ -1,0 +1,12 @@
+/* Body */
+body {
+    color: #ad7c44;
+    border-color: #030000
+    border-style: dotted;
+    font-size: 20px;
+    line-height: 34px
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    background-image: url(#);
+    background-repeat: no-repeat;
+    background-color: #f9f1f1;
+}
