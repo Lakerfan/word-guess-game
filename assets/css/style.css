@@ -1,28 +1,39 @@
-/* Body */
-body {
-    color: #ad7c44;
-    border-color: #030000
-    font-size;
-    line-height: 34px;
-    font-family: 'Arial', 'Helvetica', sans-serif;
-    background-color: lightblue;
-}
-/* Unordered list class */
-.game-tracker {
+.header {
+    background-color: #C0C0C0;
+    color: #007399;
+    text-align: center;
+    padding: 15px;
+    border-bottom: 5px solid #007399;
+    border-top: 5px solid #007399;
+  }
+  .container {
+    width: 60%;
+    background-color: #C0C0C0;
+    color: #007399;
+    border: 5px solid #007399;
+    margin-top: 20px;
+    margin-bottom: 20px;
     padding: 20px;
-    padding-left: 20px;
-}
-
-.list-game-tracker {
-    padding-left: 20px;
-}
-
-#play {
-    text-align: left;
-}
-
-#container {
-    width: 100%;
-    max-width: 960px;
-    margin: 0 auto;
-}
+    text-align: center;
+  }
+  .col-md-12 {
+    padding: 5px;
+    margin: auto;
+  }
+  .populate {
+    background-color: #007399;
+    color: white;
+    width: 50%;
+    margin: auto;
+  }
+  h1 {
+    font-size: 40px;
+    font-weight: bold;
+  }
+  h3 {
+    font-size: 32px;
+    font-weight: bold;
+  }
+  .info {
+    font-size: 24px;
+  }  
